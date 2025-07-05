@@ -8,7 +8,7 @@ So you can find your next job without guessing the salary range.
 
 <a href="https://salarypine.com">
   <img
-    src="images/every-job-post-should-include-a-salary-range.jpg"
+    src="images/every-job-post-should-include-a-salary-range.svg"
     alt="Freedom of Speech painting by Norman Rockwell in 1943, with a text on top saying 'Every job post should include a salary range'"
     width="auto"
     height="400"
